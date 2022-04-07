@@ -6,7 +6,7 @@
 
 -otherwise the rest should be included
 
--for better ui and animation open this project in chrome and hover over the credit
+-since the ui is not that much please check out this project for better ui and animation open it in chrome and hover over the credit
 card
 
 -<https://github.com/TariqHattab/Glassmorphism-UI>
